@@ -1,6 +1,3 @@
-const { int32 } = require('numjs/src/dtypes');
-
-nj = require('numjs')
 sm = require('silly-matrix')
 l = 13.5 // enter your length
 fc = [
